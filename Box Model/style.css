@@ -1,0 +1,67 @@
+
+/* Menu aligné + fond noir */
+nav
+{
+    background-color: #424242;
+    font-size: 25px;
+    color: #c3c4c4
+}
+
+li
+{
+    display: inline;
+    margin-left: 30px;
+}
+
+ul
+{
+    margin: 0px;
+}
+
+/* Div carousel fond gris  */
+.carousel
+{
+    background-color: #edeeee;
+    padding-top: 0px;
+    padding-bottom: 300px;
+}
+
+/* Texte h2 centré */
+section h2
+{
+    text-align: center;
+    margin: 30px;
+}
+
+/* 3 Articles alignés */
+section article
+{
+    display: inline-block;
+    background-color: #edeeee;
+    height: 300px;
+    width: 33%;
+    margin-bottom: 30px;  
+}
+
+/* Text h2 non centré */
+form h2
+{
+    border-top: 2px solid #424242;
+    padding-top: 10px;
+}
+
+/* Form centré en ligne */
+input 
+{
+    display: block;
+    width: 80%;
+    margin-bottom: 30px;
+    margin: 20px auto;
+}
+
+textarea
+{   
+    display: block;
+    width: 80%;
+    margin: auto;
+}
